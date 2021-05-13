@@ -36,3 +36,15 @@
         background-repeat: no-repeat !important;
     }
 }
+
+.start-project {
+    -webkit-transition-duration: .8s;
+    -o-transition-duration: .8s;
+    transition-duration: .8s;
+    background-color: #fff;
+    padding: 80px 30px 50px;
+    border-radius: 10px;
+    box-shadow: 3px 0 15px -1px rgb(0 0 0 / 15%);
+    position: relative;
+    z-index: 1;
+}
