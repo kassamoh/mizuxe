@@ -35,6 +35,14 @@
         background-position: center !important;
         background-repeat: no-repeat !important;
     }
+    .whatsapp-btn{
+      background-color: #FF4133;
+      color: #fff;
+    }
+    .whatsapp-btn:hover{
+      background-color: #FF4133;
+      color: #fff;
+    }
 }
 
 .start-project {
