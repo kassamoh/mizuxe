@@ -69,7 +69,7 @@
     // ************************************
 
     if ($.fn.owlCarousel) {
-        var instagramFeedSlider = $('.instragram-feed-area');
+        var instagramFeedSlider = $('.client-logo-area');
         instagramFeedSlider.owlCarousel({
             items: 6,
             loop: true,
