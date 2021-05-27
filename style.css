@@ -45,6 +45,23 @@
     }
 }
 
+@media only screen and (max-width:767px){
+  .single-welcome-slide.bg-img.bg-overlay
+  {
+      background-image: url(img/bg-img/iPad-Pro.png) !important;
+      background-position: center !important;
+      background-repeat: no-repeat !important;
+  }
+  .whatsapp-btn{
+    background-color: #FF4133;
+    color: #fff;
+  }
+  .whatsapp-btn:hover{
+    background-color: #FF4133;
+    color: #fff;
+  }
+}
+
 .start-project {
     -webkit-transition-duration: .8s;
     -o-transition-duration: .8s;
