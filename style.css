@@ -46,6 +46,19 @@
 }
 
 @media only screen and (max-width:992px){
+.single-welcome-slide .welcome-text h2 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.1;
+  display: block;
+  margin-top: 150px;
+  background-color: #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+}
+
+@media only screen and (max-width:992px){
   .single-welcome-slide.bg-img.bg-overlay
   {
       background-image: url(img/bg-img/iPad-Pro.svg) !important;
