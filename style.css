@@ -46,6 +46,15 @@
 }
 
 @media only screen and (max-width:992px){
+.single-welcome-slide .welcome-text p {
+  color: rgb(0, 0, 0);
+  margin-bottom: 50px;
+  display: block;
+}
+}
+
+
+@media only screen and (max-width:992px){
 .single-welcome-slide .welcome-text h2 {
   font-weight: 700;
   font-size: 42px;
