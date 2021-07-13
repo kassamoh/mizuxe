@@ -147,4 +147,7 @@
       visibility: visible; }
       .single-portfolio-content:hover .hover-content a, .single-portfolio-content:focus .hover-content a {
         margin-top: -26px; }
+.serving-clients{
+  font-weight: 400;
+}
   
